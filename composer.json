@@ -1,0 +1,44 @@
+{
+  "name": "itinerisltd/gf-force-enable-html5",
+  "type": "wordpress-muplugin",
+  "description": "Force Gravity Forms to enable HTML5 output.",
+  "keywords": [
+    "html5",
+    "gravity-forms",
+    "wordpress",
+    "wp"
+  ],
+  "homepage": "https://github.com/itinerisltd/gf-force-enable-html5/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Itineris Limited",
+      "email": "dev@itineris.co.uk",
+      "homepage": "https://itineris.co.uk/",
+      "role": "Company"
+    },
+    {
+      "name": "Lee Hanbury-Pickett",
+      "email": "lee.hanbury@gmail.com",
+      "homepage": "https://github.com/codepuncher",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^8.1"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1.x-dev"
+    }
+  },
+  "prefer-stable": true,
+  "support": {
+    "email": "hello@itineris.co.uk",
+    "issues": "https://github.com/ItinerisLtd/gf-force-enable-html5/issues",
+    "source": "https://github.com/ItinerisLtd/gf-force-enable-html5"
+  }
+}
